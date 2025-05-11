@@ -1,13 +1,13 @@
 <div align="center">
   <h1>🦀 30 Days Of Rust: Day 8 - Rust Collections 🚀</h1>
-  <a href="https://www.linkedin.com/in/het-patel-8b110525a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <a href="https://www.linkedin.com/in/Shayan-S-Chakravarthy-456076214/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social" alt="LinkedIn" />
   </a><a href="https://github.com/Hunterdii" target="_blank">
     <img src="https://img.shields.io/badge/Follow%20me%20on-GitHub-blue?style=flat-square&logo=github" alt="Follow me on GitHub" />
   </a>
 
 <sub><h4><i>Author:
-  <a href="https://www.linkedin.com/in/het-patel-8b110525a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">Het Patel</a></h4></i>
+  <a href="https://www.linkedin.com/in/Shayan-S-Chakravarthy-456076214/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">Het Patel</a></h4></i>
 <small> October, 2024</small>
 </sub>
 
